@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             val euro = text.toDouble()
-            val dollars = String.format("%.2f", euro * 0.8656)
+            val dollars = String.format(Locale("en", "US"),"$ %.2f", euro * 0.8656)
 
             binding.textViewCurrencyResult.text = dollars
         }
