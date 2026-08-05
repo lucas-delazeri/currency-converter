@@ -31,11 +31,12 @@ Atualmente suporta conversão de:
 - **Material Components for Android** — componentes visuais (TextInputLayout, MaterialButton, CardView)
 
 ## 📸 Screenshots
-
+<p align="center">
   | Tela principal |
-
-<img width="387" height="824" alt="image" src="https://github.com/user-attachments/assets/cc2ec13d-e763-4d3a-81b2-653a64e0a7e0" />
-
+</p>
+<p align="center">
+  <img width="387" height="824" alt="image" src="https://github.com/user-attachments/assets/cc2ec13d-e763-4d3a-81b2-653a64e0a7e0" />
+</p>
 
 ## 🚀 Como executar o projeto
 
