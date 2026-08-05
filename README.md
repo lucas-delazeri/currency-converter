@@ -43,8 +43,8 @@ Atualmente suporta conversão de:
 ### Pré-requisitos
 
 - [Android Studio](https://developer.android.com/studio) instalado + JDK 21(ou superior)
-- SDK mínimo: `API XX` *(ajuste conforme seu `build.gradle`)*
-- SDK alvo: `API XX`
+- SDK mínimo: `API 24`
+- SDK alvo: `API 37`
 
 ### Passos
 
